@@ -2,7 +2,7 @@ package exe_Conditions_loops;
 
 import java.util.Scanner;
 
-public class MaxNum {
+public class Lab02 {
     public static void main(String[] args) {
         //Max number in 2 numbers
         System.out.println("Enter num 1: ");
