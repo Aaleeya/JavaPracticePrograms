@@ -14,5 +14,7 @@ public class Lab02 {
 
         int max= Math.max(num1, num2);
         System.out.println("Max num is "+max);
+
+        sc.close();
     }
 }

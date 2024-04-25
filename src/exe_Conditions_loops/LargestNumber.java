@@ -23,5 +23,6 @@ public class LargestNumber {
         }else {
             System.out.println(num3 +" is the largest number");
         }
+        sc.close();
     }
 }
