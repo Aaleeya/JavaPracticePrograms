@@ -1,4 +1,4 @@
-package exe_Arrays;
+package Assignments;
 
 public class ElementisPresent {
     //Write a Java method to check if a given element exists in a 2D array. ( element =8) , true

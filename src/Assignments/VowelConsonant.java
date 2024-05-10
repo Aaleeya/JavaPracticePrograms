@@ -1,4 +1,4 @@
-package exe_Conditions_loops;
+package Assignments;
 
 import java.util.Scanner;
 

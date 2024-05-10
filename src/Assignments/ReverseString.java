@@ -1,4 +1,4 @@
-package exe_String;
+package Assignments;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package exe_Conditions_loops;
+package Assignments;
 
 public class FizzBuzzTest {
     public static void main(String[] args) {

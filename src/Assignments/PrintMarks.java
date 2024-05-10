@@ -1,4 +1,4 @@
-package exe_Arrays;
+package Assignments;
 
 import java.util.Scanner;
 

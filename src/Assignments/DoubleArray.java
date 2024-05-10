@@ -1,4 +1,4 @@
-package exe_Arrays;
+package Assignments;
 
 public class DoubleArray {
     public static void main(String[] args) {

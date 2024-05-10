@@ -1,4 +1,4 @@
-package exe_Arrays;
+package Assignments;
 
 public class MaxNumber {
     //Write - Java method to find the maximum value in a 2D array. - O/P - 9
